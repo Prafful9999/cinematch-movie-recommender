@@ -17,7 +17,7 @@ st.set_page_config(
     layout="wide",
 )
 
-TMDB_API_KEY = TMDB_API_KEY = st.secrets.get("TMDB_API_KEY", "")
+TMDB_API_KEY = st.secrets.get("TMDB_API_KEY", "")
 
 MOVIES_FILE = "movies_dict (5).pkl"
 SIMILARITY_FILE = "similarity (5).pkl"
