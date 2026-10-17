@@ -352,9 +352,12 @@ def get_movie_details(title):
 
         return movie
 
-    except (requests.RequestException, ValueError):
-        return None
 
+    except (requests.RequestException, ValueError) as e:
+
+        st.error(f"TMDB error for {title}: {e}")
+
+        return None
 
 def get_poster(details):
     if not details:
