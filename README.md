@@ -8,8 +8,7 @@ posters.
 ## 🔗 Project Links
 
 - **Live App:** [CineMatch](https://cinematch-movie-recommender-9p7nl5suemxhq8rocvlzym.streamlit.app/)
-- **GitHub Repository:** [CineMatch on GitHub](https://github.com/Prafful9999/cinematch-movie-recommender)
-]
+- - **GitHub Repository:** [CineMatch on GitHub](https://github.com/Prafful9999/cinematch-movie-recommender)
 ## 📸 Screenshots
 
 ```{=html}
