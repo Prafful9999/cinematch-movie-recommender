@@ -6,19 +6,17 @@ recommend movies, and the TMDB API to fetch available movie details and
 posters.
 
 ## 🔗 Project Links
+## 🔗 Project Links
 
--   **Live App:** [Add your deployed app link
-    here](https://cinematch-movie-recommender-9p7nl5suemxhq8rocvlzym.streamlit.app/)
--   **GitHub Repository:**[ [Add your repository link
-    here](https://github.com/Prafful9999/cinematch-movie-recommender/blob/main/app.py)
+- **Live App:** [CineMatch](https://cinematch-movie-recommender-9p7nl5suemxhq8rocvlzym.streamlit.app/)
+- **GitHub Repository:** [CineMatch on GitHub](https://github.com/Prafful9999/cinematch-movie-recommender)
 ]
 ## 📸 Screenshots
 
 ```{=html}
 <!-- Add your screenshots below when ready. -->
 ```
-![CineMatch Home Page](screenshots/home.png) ![Movie
-Recommendations](screenshots/recommendations.png)
+_Screenshots coming soon._
 
 ## 🛠️ Tech Stack
 
