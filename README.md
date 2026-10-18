@@ -6,7 +6,6 @@ recommend movies, and the TMDB API to fetch available movie details and
 posters.
 
 ## 🔗 Project Links
-## 🔗 Project Links
 
 - **Live App:** [CineMatch](https://cinematch-movie-recommender-9p7nl5suemxhq8rocvlzym.streamlit.app/)
 - **GitHub Repository:** [CineMatch on GitHub](https://github.com/Prafful9999/cinematch-movie-recommender)
@@ -28,7 +27,7 @@ _Screenshots coming soon._
 ## ⚙️ Run Locally
 
 ``` bash
-git clone PASTE_GITHUB_REPOSITORY_URL_HERE
+git clone https://github.com/Prafful9999/cinematch-movie-recommender.git
 cd cinematch-movie-recommender
 pip install -r requirements.txt
 streamlit run app.py
