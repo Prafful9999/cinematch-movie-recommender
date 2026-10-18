@@ -10,16 +10,14 @@ posters.
 - **Live App:** [CineMatch](https://cinematch-movie-recommender-9p7nl5suemxhq8rocvlzym.streamlit.app/)
 - - **GitHub Repository:** [CineMatch on GitHub](https://github.com/Prafful9999/cinematch-movie-recommender)
 ## 📸 Screenshots
-
 ### 🏠 Homepage
-![CineMatch Homepage](screenshots/home.png.png)
+![CineMatch Homepage](homepage.png.png)
 
 ### 🎬 Recommendations
-![Movie Recommendations](screenshots/recommendation.png.png)
+![Movie Recommendations](recommendation.png.png)
 
 ### 🎥 Movie Details
-![Movie Details](screenshots/detail.png.png)
-
+![Movie Details](detail.png.png)
 
 ## 🛠️ Tech Stack
 
