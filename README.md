@@ -13,8 +13,8 @@ posters.
 
 ```{=html}
 <!-- Add your screenshots below when ready. -->
-```
-_Screenshots coming soon._
+```![CineMatch Home Page](home.png)
+
 
 ## 🛠️ Tech Stack
 
