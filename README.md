@@ -11,9 +11,14 @@ posters.
 - - **GitHub Repository:** [CineMatch on GitHub](https://github.com/Prafful9999/cinematch-movie-recommender)
 ## 📸 Screenshots
 
-```{=html}
-<!-- Add your screenshots below when ready. -->
-```![CineMatch Home Page](home.png)
+### 🏠 Homepage
+![CineMatch Homepage](screenshots/home.png)
+
+### 🎬 Recommendations
+![Movie Recommendations](screenshots/recommendation.png)
+
+### 🎥 Movie Details
+![Movie Details](screenshots/detail.png)
 
 
 ## 🛠️ Tech Stack
