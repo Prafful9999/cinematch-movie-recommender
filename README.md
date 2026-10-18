@@ -12,13 +12,13 @@ posters.
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![CineMatch Homepage](screenshots/home.png)
+![CineMatch Homepage](screenshots/home.png.png)
 
 ### 🎬 Recommendations
-![Movie Recommendations](screenshots/recommendation.png)
+![Movie Recommendations](screenshots/recommendation.png.png)
 
 ### 🎥 Movie Details
-![Movie Details](screenshots/detail.png)
+![Movie Details](screenshots/detail.png.png)
 
 
 ## 🛠️ Tech Stack
